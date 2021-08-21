@@ -1,3 +1,6 @@
+# imgs
+![img1](public/img.png)
+![img2](public/img2.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
